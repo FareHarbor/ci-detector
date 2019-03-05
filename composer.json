@@ -7,7 +7,6 @@
         "interface",
         "appveyor",
         "bamboo",
-        "circleci",
         "codeship",
         "continuousphp",
         "drone",
